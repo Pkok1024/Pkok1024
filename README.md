@@ -1,21 +1,31 @@
-<h1 align="center">Hi 👋, I'm .M.U.F.A.R.</h1>
-<h3 align="center">A passionate frontend developer</h3>
+# Hi there, I'm Pkok1024! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pkok1024&label=Profile%20views&color=0e75b6&style=flat" alt="pkok1024" /> </p>
+## About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkok1024" alt="pkok1024" /></a> </p>
+- 🌟 Passionate about coding and software development.
+- 📚 Always eager to learn and explore new technologies.
+- 💡 Enjoy solving complex problems and improving my skills.
 
-- 🔭 I’m currently working on **rest APIs**
+## 🔧 Technologies & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pkok1024&show_icons=true&locale=en&layout=compact" alt="pkok1024" /></p>
+![Pkok1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pkok1024&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pkok1024&layout=compact&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pkok1024&show_icons=true&locale=en" alt="pkok1024" /></p>
+## 🎯 Fun Facts
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkok1024&" alt="pkok1024" /></p>
+- 🚴 I love cycling and exploring new trails.
+- 🍕 Pizza is my favorite food.
+- 🎮 An avid gamer in my free time.
